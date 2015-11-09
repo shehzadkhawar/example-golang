@@ -1,2 +1,4 @@
 # example-golang
-Example code
+Example code.
+Edit 2.
+
